@@ -64,6 +64,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
+###  Just for aesthetics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 ### 🚀 Featured Projects
 
