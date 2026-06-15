@@ -75,9 +75,9 @@
 
 | Project | Tech | Link |
 |---|---|---|
-| 🤖 AI Study Assistant | MERN, OpenAI, RAG | [Repo](#) |
-| ✈️ Travel Planner | MERN, Google Maps API | [Repo](#) |
-| 🌐 Portfolio Website | React, Tailwind, EmailJS | [Live](#) |
+| 🤖 Task Assignment and Tracking System | MERN Stack, JWT, Tailwind CSS, Railway | [Live](https://team-task-amanager-production.up.railway.app/) 
+| ✈️ College Coding Contest Platform (In Progress) |  MERN Stack, Redis, Socket.io, Judge0 | [Repo](#) |
+| 🌐 LinkFlow–URL Compression and Analytics Tool | Node.js, Express.js, PostgreSQL, React.js| [Live](https://url-shortener-delta-liart.vercel.app/) |
 
 ---
 
