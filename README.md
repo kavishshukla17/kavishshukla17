@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/126380327/346540082-eaee68b4-804f-4daf-9233-2e46423ce930.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEyMTExMDksIm5iZiI6MTc4MTIxMDgwOSwicGF0aCI6Ii8xMjYzODAzMjcvMzQ2NTQwMDgyLWVhZWU2OGI0LTgwNGYtNGRhZi05MjMzLTJlNDY0MjNjZTkzMC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYxMVQyMDQ2NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNDY1ZDIwNjA1YjNiNDBiNGFhMjhhYzNmYWQ5MjU1ZTU2ZWE0NWI3ODc3MDVkMGE5ZTkyNTUxMjgzNDg3NTg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.JLG2WlPYkw9_FF7XLb-CamEEzjntJXbuoDe3pyyOnPg" width="100%" height="60%" />
+  <img width="2008" height="1040" alt="346540082-eaee68b4-804f-4daf-9233-2e46423ce930 (2)" src="https://github.com/user-attachments/assets/207f50d4-c297-46d7-8c04-eefface83e64" />
 </p>
 <h1 align="center">Hi 👋, I'm Kavish Shukla</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Competitive Programmer</h3>
